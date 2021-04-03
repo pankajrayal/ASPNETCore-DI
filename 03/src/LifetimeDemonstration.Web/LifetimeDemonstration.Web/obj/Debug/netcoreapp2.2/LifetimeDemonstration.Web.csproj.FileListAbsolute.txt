@@ -1,0 +1,17 @@
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\LifetimeDemonstration.Web.deps.json
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\LifetimeDemonstration.Web.runtimeconfig.json
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\LifetimeDemonstration.Web.runtimeconfig.dev.json
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\LifetimeDemonstration.Web.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\bin\Debug\netcoreapp2.2\LifetimeDemonstration.Web.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.AssemblyInfoInputs.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.AssemblyInfo.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.RazorAssemblyInfo.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.RazorAssemblyInfo.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.RazorTargetAssemblyInfo.cache
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.dll
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\ASP.Net Core DI\03\src\LifetimeDemonstration.Web\LifetimeDemonstration.Web\obj\Debug\netcoreapp2.2\LifetimeDemonstration.Web.genruntimeconfig.cache

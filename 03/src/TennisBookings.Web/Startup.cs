@@ -7,20 +7,15 @@ using System;
 using TennisBookings.Web.Configuration;
 using TennisBookings.Web.Services;
 
-namespace TennisBookings.Web
-{
-    public class Startup
-    {
-        public Startup(IConfiguration configuration)
-        {
+namespace TennisBookings.Web {
+    public class Startup {
+        public Startup(IConfiguration configuration) {
             Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
-        {
+        public void ConfigureServices(IServiceCollection services) {
             services.AddTransient<IWeatherForecaster, WeatherForecaster>();
 
             services.Configure<FeaturesConfiguration>(Configuration.GetSection("Features"));
@@ -29,18 +24,13 @@ namespace TennisBookings.Web
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IServiceProvider serviceProvider)
-        {
-            if (env.IsDevelopment())
-            {
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IServiceProvider serviceProvider) {
+            if (env.IsDevelopment()) {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
+            else {
                 app.UseExceptionHandler("/Home/Error");
             }
-            
             app.UseStaticFiles();
             app.UseAuthentication();
             app.UseMvc();

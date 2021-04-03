@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj": {}
+    "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj": {}
   },
   "projects": {
-    "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\src\\TennisBookings.Web\\TennisBookings.Web.csproj": {
+    "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\src\\TennisBookings.Web\\TennisBookings.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
+        "projectUniqueName": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
         "projectName": "TennisBookings.Web",
-        "projectPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
+        "projectPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\src\\TennisBookings.Web\\TennisBookings.Web.csproj",
         "packagesPath": "C:\\Users\\prayal\\.nuget\\packages\\",
-        "outputPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\src\\TennisBookings.Web\\obj\\",
+        "outputPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\src\\TennisBookings.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj": {
+    "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
+        "projectUniqueName": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
         "projectName": "TennisBookings.Web.Tests",
-        "projectPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
+        "projectPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\test\\TennisBookings.Web.Tests\\TennisBookings.Web.Tests.csproj",
         "packagesPath": "C:\\Users\\prayal\\.nuget\\packages\\",
-        "outputPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\test\\TennisBookings.Web.Tests\\obj\\",
+        "outputPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\test\\TennisBookings.Web.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -109,8 +109,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\src\\TennisBookings.Web\\TennisBookings.Web.csproj": {
-                "projectPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\src\\TennisBookings.Web\\TennisBookings.Web.csproj"
+              "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\src\\TennisBookings.Web\\TennisBookings.Web.csproj": {
+                "projectPath": "C:\\D-Drive\\Pankaj\\Learning\\code\\DotNet\\ASP.Net Core DI\\02\\src\\TennisBookings.Web\\TennisBookings.Web.csproj"
               }
             }
           }
